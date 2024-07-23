@@ -68,4 +68,4 @@ class Command(BaseCommand):
         Product.objects.bulk_create(product_for_create)
 
         # print(product_for_create)
-        # print(category_for_create)
+        # print(category_for_create).
